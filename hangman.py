@@ -17,7 +17,7 @@ def visual_screen(player_points):
 ******   *****   **** **  **  ***   ****  ****   *****   **** **  
 **  **  **   **  ** ****  **   **   ** **** **  **   **  ** ****  
 **  **  **   **  **  ***  *******   **  **  **  **   **  **  ***
-Created by __Pole__""")
+Created by __Pole__ v1.0""")
     print("Bienvenido al juego del ahorcado. Intenta adivinar la siguiente palabra: ")
     print(f"Tu puntaje actual es: '{player_points}'")
 
